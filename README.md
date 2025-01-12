@@ -2,7 +2,7 @@
 **AI Engineer | Data Scientist | Data Analyst**
 
 ---
-##Summary of me 
+##
 As a dedicated mathematics student with a strong foundation in data science and AI
  engineering, I am passionate about utilizing data and cutting-edge algorithms to address
  complex challenges and foster innovation. My expertise lies in converting data into meaningful
