@@ -25,10 +25,9 @@ _**LinkedIN** : [www.linkedin.com/in/yağız-terzi-]
 ---
 
 ## 🛠️ Technical Skills
-- **Programming Languages**: Python, Java, Node.js, HTML  
-- **Databases**: MySQL, PopSQL  
-- **Tools and Platforms**: OpenAI Playground  
-- **AI and Data Science**: NLP, AI chatbot development, Data Analytics  
+- **Programming Languages**: Python, Java, Node.js, HTML , MySQL, PopSQL  
+- **Tools and Platforms**: OpenAI Playground , Gemini Playground  , Microsoft Azure
+- **AI and Data Science**: NLP, AI chatbot development, Data Analytics , Data Manupulation , Image segmentation/detection/classification
 
 ---
 
