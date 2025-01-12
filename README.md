@@ -37,7 +37,10 @@ _**LinkedIN** : [www.linkedin.com/in/yağız-terzi-]
 - **Intermediate Python** – DataCamp  
 - **Data Science Methodology** – IBM  
 - **Introduction to Statistics** – Stanford University  
-- **Tools for Data Science** – IBM  
+- **Tools for Data Science** – IBM
+- **Introduction to PowerBI** - Datacamp
+- **Data Manipulation with pandas**- Datacamp
+- **Developing AI Systems with the OpenAI API** - Datacamp
 
 ---
 
