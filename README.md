@@ -2,7 +2,7 @@
 **AI Engineer | Data Scientist | Data Analyst**
 
 ---
-  Hello Im a dedicated Data Scientist/Data Engineer with strong background in Theoritical and Applied Mathematics
+  Hello Im a dedicated Data Scientist/AI Engineer with strong background in Theoritical and Applied Mathematics
 ---
 ## 📬 Contact
 - **Phone**: +90 544 230 4508  
