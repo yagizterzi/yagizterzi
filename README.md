@@ -2,7 +2,6 @@
 **AI Engineer | Data Scientist | Data Analyst**
 
 ---
-##
 Hello Im a dedicated Data Scientist/Data Engineer with strong background in Theoritical and Applied Mathematics
 ---
 ## 📬 Contact
