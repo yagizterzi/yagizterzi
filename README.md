@@ -7,7 +7,7 @@
 ## 📬 Contact
 - **Phone**: +90 544 230 4508  
 - **Email**: [yagizterzi198@gmail.com](mailto:yagizterzi198@gmail.com)  
-_**LinkedIN** : [www.linkedin.com/in/yağız-terzi-]
+-**LinkedIN** : [www.linkedin.com/in/yağız-terzi-]
 - **Location**: Istanbul, Turkey  
 
 ---
