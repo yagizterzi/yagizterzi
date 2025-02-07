@@ -3,11 +3,7 @@
 
 ---
 ##
-As a dedicated mathematics student with a strong foundation in data science and AI
- engineering, I am passionate about utilizing data and cutting-edge algorithms to address
- complex challenges and foster innovation. My expertise lies in converting data into meaningful
- insights and developing intelligent systems to support data-driven strategies
-
+Hello Im a dedicated Data Scientist/Data Engineer with strong background in Theoritical and Applied Mathematics
 ---
 ## 📬 Contact
 - **Phone**: +90 544 230 4508  
@@ -40,7 +36,8 @@ _**LinkedIN** : [www.linkedin.com/in/yağız-terzi-]
 - **Introduction to PowerBI** - Datacamp
 - **Data Manipulation with pandas**- Datacamp
 - **Developing AI Systems with the OpenAI API** - Datacamp
-
+- **SQL(Intermediate)** - HackerRank
+- **REST APIs(Intermediate)** - HackerRank
 ---
 
 ## 💼 Professional Experience
@@ -50,12 +47,6 @@ _**LinkedIN** : [www.linkedin.com/in/yağız-terzi-]
 - Applied natural language processing (NLP) techniques to improve chatbot accuracy and user experience.  
 - Collaborated with stakeholders to align chatbot functionalities with business objectives.  
 - Conducted testing and fine-tuning to ensure optimal performance and reliability.  
-
-### Intern  
-**Arkman Bilgisayar | Summer 2023**  
-- Gained hands-on experience in computer systems and software solutions.  
-- Assisted in troubleshooting hardware and software issues, enhancing technical problem-solving skills.  
-- Supported daily IT operations and project management tasks.  
 
 ---
 
