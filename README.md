@@ -27,16 +27,14 @@
 ---
 
 ## 📜 Certifications
-- **Introduction to Python** – Stanford University  
-- **Intermediate Python** – DataCamp  
-- **Data Science Methodology** – IBM  
-- **Introduction to Statistics** – Stanford University  
-- **Tools for Data Science** – IBM
+- **Intermediate Python** – DataCamp   
 - **Introduction to PowerBI** - Datacamp
 - **Data Manipulation with pandas**- Datacamp
 - **Developing AI Systems with the OpenAI API** - Datacamp
 - **SQL(Intermediate)** - HackerRank
 - **REST APIs(Intermediate)** - HackerRank
+- **[Problem Solving (Intermediate)](https://www.hackerrank.com/certificates/effd2d3be247)**-HackerRank
+- **[Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python/)**-Freecodecamp
 ---
 
 ## 💼 Professional Experience
