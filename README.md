@@ -1,9 +1,7 @@
-## # 🌟 Hi there! I'm Yağız Terzi 👋  
+## # 🌟 Hi there! I'm Yağız Terzi 👋 
 **AI Engineer | Data Scientist | Data Analyst**
 
----
-  Hello Im a dedicated Data Scientist/AI Engineer with strong background in Theoritical and Applied Mathematics
----
+
 ## 📬 Contact
 - **Phone**: +90 544 230 4508  
 - **Email**: [yagizterzi198@gmail.com](mailto:yagizterzi198@gmail.com)  
@@ -20,9 +18,17 @@
 ---
 
 ## 🛠️ Technical Skills
-- **Programming Languages**: Python, Java, Node.js, HTML , MySQL, PopSQL  
-- **Tools and Platforms**: OpenAI Playground , Gemini Playground  , Microsoft Azure
-- **AI and Data Science**: NLP, AI chatbot development, Data Analytics , Data Manupulation , Image segmentation/detection/classification
+ - **Programming**: Python, R , SQL 
+
+ - **Machine Learning**: Supervised Learning (Linear/Logistic Regression, Random Forest, XGBoost), Unsupervised Learning
+(K-means, PCA), Deep Learning (TensorFlow, PyTorch), Time Series Forecasting (ARIMA, Prophet) 
+
+  - **AI & NLP**: AI Agents , SpaCy, NLTK, Transformers (Hugging Face), BERT, GPT ,Fine-tuning, Prompt Engineering,NLU
+ Data Visualization: Power BI, Tableau, Matplotlib, Seaborn, Plotly
+
+  - **Cloud & Deployment**: Google Colab
+   
+  - **Tools**: Jupyter Notebook, Git, Pandas, NumPy, Scikit-learn , Excel 
 
 ---
 
@@ -61,7 +67,7 @@
 
 ---
 
-✨ **My goal is to leverage data science and AI to create innovative solutions and drive meaningful impact.**  
+
 
 
 <!--
