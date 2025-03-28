@@ -4,7 +4,7 @@
 
 ## 📬 Contact
 - **Email**: [yagizterzi198@gmail.com](mailto:yagizterzi198@gmail.com)  
-- **LinkedIN** : [www.linkedin.com/in/yağız-terzi-]
+- **LinkedIN** : www.linkedin.com/in/yağız-terzi-
 - **Location**: Istanbul, Turkey  
 
 ---
