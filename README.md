@@ -12,23 +12,6 @@
 ## 🧑‍🎓 Education
 - **B.Sc. in Mathematics**  
   *Yıldız Technical University (2021-2026)*  
-- **Fahrettin Kerim Gökay High School (2017-2021)**  
-
----
-
-## 🛠️ Technical Skills
- - **Programming**: Python, R , SQL 
-
- - **Machine Learning**: Supervised Learning (Linear/Logistic Regression, Random Forest, XGBoost), Unsupervised Learning
-(K-means, PCA), Deep Learning (TensorFlow, PyTorch), Time Series Forecasting (ARIMA, Prophet) 
-
-  - **AI & NLP**: AI Agents , SpaCy, NLTK, Transformers (Hugging Face), BERT, GPT ,Fine-tuning, Prompt Engineering,NLU
- Data Visualization: Power BI, Tableau, Matplotlib, Seaborn, Plotly
-
-  - **Cloud & Deployment**: Google Colab
-   
-  - **Tools**: Jupyter Notebook, Git, Pandas, NumPy, Scikit-learn , Excel 
-
 ---
 
 ## 📜 Certifications
@@ -52,22 +35,11 @@
 
 ---
 
-## 🌱 Interests
-- Data Science  
-- Natural Language Processing (NLP)  
-- Artificial Intelligence Applications  
-- Mathematical Modeling  
-
----
-
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yagizterzi&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yagizterzi&layout=compact&theme=radical)  
 
 ---
-
-
-
 
 <!--
 **yagizterzi/yagizterzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
